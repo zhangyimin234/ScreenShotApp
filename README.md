@@ -24,27 +24,40 @@ ScreenShotApp
 点击Open figs path(Alt+O)打开截图存放文件夹，点击Exit(Alt+E)退出
 
 
+
+
 A quick screen capture tool
+
 
 Take a quick screenshot especially when you are watching a video, attending a web conference, listening to an online report, etc.
 
-How to use
+How to use:
+
 
 1. Left: X coordinate/pixel of the top left corner of the intercepted image (the top left corner of the screen is the origin).
+ 
 
-2, Top: Y coordinate/pixel of the top left corner of the intercepted image(the top left corner of the screen is the origin).
+2. Top: Y coordinate/pixel of the top left corner of the intercepted image(the top left corner of the screen is the origin).
 
-3, Width: the width of the intercepted image /pixel.
 
-4, Height: the height of the intercepted image/pixel.
+3. Width: the width of the intercepted image /pixel.
 
-5、Path: screenshot save path
+
+4. Height: the height of the intercepted image/pixel.
+
+
+5. Path: screenshot save path
+
 
 Use '/' when writing directly, or press the Choosepath button to set the save path.
 
+
 Click DefaultParas(Alt+D) to input default parameters, click Screenshot(Alt+S) to take a screenshot
 
+
 Click Open figs path(Alt+O) to open the screenshot storage folder, click Exit(Alt+E) to exit.
+
+
 
 
 
