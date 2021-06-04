@@ -7,6 +7,8 @@ ScreenShotApp
 
 使用方法：
 
+直接双击启动(启动过程可能有点慢，请耐心等待)
+
 1、Left：截图左上角X坐标/pixel(屏幕左上角为原点)；
 
 2、Top：截图左上角Y坐标/pixel(屏幕左上角为原点)；
@@ -36,6 +38,9 @@ A quick screen capture tool
 Take a quick screenshot especially when you are watching a video, attending a web conference, listening to an online report, etc.
 
 How to use:
+
+
+Double-click to start directly (starting process may be a bit slow, please wait patiently) 
 
 
 1. Left: X coordinate/pixel of the top left corner of the intercepted image (the top left corner of the screen is the origin).
